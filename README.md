@@ -17,5 +17,5 @@ Your task is to bypass the firewall, send an AUTH command to the vulnerable serv
 AUTH command has the following format:
 {
     command: "AUTH",
-    user: <string>
+    user: ""
 }
